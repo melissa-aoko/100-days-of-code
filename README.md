@@ -66,28 +66,31 @@ Throughout the 100 days, I plan to build and contribute to various projects usin
 
 ## 🗂 Folder Structure
 
-100-days-of-code/
+This repository is organized by language and topic, with each day dedicated to mastering a new concept.
 
-├── python/
+### Python
+- **basics/**: Basic Python scripts and syntax practice
+- **oop/**: Object-Oriented Programming in Python
+- **libraries/**: Libraries and modules in Python
+- **projects/**: Python-based projects
 
-│ ├── basics/
+### Java
+- **basics/**: Basic Java programs and syntax practice
+- **oop/**: Object-Oriented Programming in Java
+- **projects/**: Java-based projects
 
-│ ├── oop/ 
-│ ├── libraries/
-│ ├── projects/
-├── java/
-│ ├── basics/
-│ ├── oop/
-│ ├── projects/
-├── sql/
-│ ├── queries/
-│ ├── joins/
-│ ├── database-design/
-├── leetcode/
-│ ├── python/
-│ ├── java/
-│ ├── sql/
-├── .gitignore
+### SQL
+- **queries/**: SQL queries and practice problems
+- **joins/**: SQL JOIN operations and practice
+- **database-design/**: Database design concepts and projects
+
+### LeetCode
+- **python/**: LeetCode problems solved using Python
+- **java/**: LeetCode problems solved using Java
+- **sql/**: LeetCode problems solved using SQL
+
+---
+
 └── README.md
 
 ## 🔗 Useful Links
