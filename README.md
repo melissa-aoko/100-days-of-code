@@ -92,7 +92,7 @@ Throughout the 100 days, I plan to build and contribute to various projects usin
 
 ## 🔗 Useful Links
 
-- [My LinkedIn](www.linkedin.com/in/melissa-aoko-54b233295)  
+- [My LinkedIn](https://www.linkedin.com/in/melissa-aoko-54b233295)
 - [My GitHub Profile](https://github.com/melissa-aoko)  
 - [LeetCode Profile](https://leetcode.com/u/melissaaoko/)
 - [Roadmap.sh ](https://roadmap.sh)  
