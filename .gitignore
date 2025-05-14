@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+*.env
+*.log
+
+# Java
+*.class
+*.jar
+*.iml
+
+# VS Code / IntelliJ
+.vscode/
+.idea/
+
+# macOS / Windows
+.DS_Store
+Thumbs.db
+ 
