@@ -30,13 +30,14 @@ I'll be updating this README with my progress and showcasing small projects and 
 
 ---
 
+
 ## 📚 Daily Log
 
-| Day | Date      | Focus Area          | Work Done                                          | Link |
-|-----|-----------|---------------------|---------------------------------------------------|------|
-| 001 | May 14    |Repo setup           | Setup repo and planned out what I will be doing   |----------------------|
-                              
-| 002  | May 15    | Python Basics       | Learned syntax, variables, data types, and casings | —         |                                                    
+| Day  | Date     | Focus Area      | Work Done                                              | Link |
+|------|----------|------------------|---------------------------------------------------------|------|
+| 001  | May 14   | Repo setup       | Setup repo and planned out what I will be doing        |      |
+| 002  | May 15   | Python Basics    | Learned syntax, variables, data types, and casing rules|      |
+                                     
 
 _This table is updated daily with links to specific files or projects._
 
